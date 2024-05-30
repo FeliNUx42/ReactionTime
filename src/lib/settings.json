@@ -1,0 +1,8 @@
+{
+  "samples": 10,
+  "testSamples": 3,
+  "minWaitTime": 2000,
+  "maxWaitTime": 6000,
+  "soundFrequency": 600,
+  "soundDuration": 1000
+}
